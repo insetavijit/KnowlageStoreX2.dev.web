@@ -1,0 +1,10 @@
+| Topic                                   | Focus & Purpose                                                                                                                        |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[11.1 Code Quality]]**               | Clean code principles; indentation; formatting; consistency; readability; self-documenting code; coding standards. Professional code.  |
+| **[[11.2 HTML Validation]]**            | W3C validator; validation importance; common errors; fixing validation issues; valid HTML5; testing. Code correctness.                 |
+| **[[11.3 Naming Conventions]]**         | Class naming; ID naming; BEM methodology; semantic names; naming patterns; consistency; maintainability. Code organization.            |
+| **[[11.4 Comments & Documentation]]**   | HTML comments; when to comment; documentation practices; code explanations; team communication; maintainability. Code clarity.         |
+| **[[11.5 Performance Best Practices]]** | Minification; critical rendering path; resource loading; image optimization; lazy loading; performance tips. Speed optimization.       |
+| **[[11.6 Security Best Practices]]**    | XSS prevention; sanitization; user input; external resources; security headers; common vulnerabilities; protection. Secure HTML.       |
+| **[[11.7 Browser Compatibility]]**      | Cross-browser testing; progressive enhancement; feature detection; polyfills; fallbacks; browser support. Universal compatibility.     |
+| **[[11.8 Project: Code Review]]**       | Conducting code review; quality checklist; validation; accessibility audit; performance check; best practices review. Quality control. |

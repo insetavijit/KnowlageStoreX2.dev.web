@@ -1,0 +1,10 @@
+| Topic                                  | Focus & Purpose                                                                                                                            |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[[2.1 Unordered Lists]]**            | ul element; li items; nested lists; list styling basics; use cases; accessibility. Bullet point lists.                                     |
+| **[[2.2 Ordered Lists]]**              | ol element; numbering types; start attribute; reversed lists; nested ordered lists; semantic numbering. Numbered lists.                    |
+| **[[2.3 Definition Lists]]**           | dl, dt, dd elements; terms and definitions; use cases; semantic markup; styling considerations. Glossaries and dictionaries.               |
+| **[[2.4 Table Basics]]**               | table element; tr, td, th; table structure; table headers; simple tables; when to use tables. Tabular data.                                |
+| **[[2.5 Advanced Tables]]**            | colspan and rowspan; thead, tbody, tfoot; caption; colgroup; complex tables; table accessibility. Structured data tables.                  |
+| **[[2.6 Table Accessibility]]**        | scope attribute; headers attribute; aria labels; screen reader support; accessible table markup. Inclusive tables.                         |
+| **[[2.7 Styling Lists & Tables]]**     | CSS basics for lists; list-style properties; table borders; spacing; zebra striping; responsive tables. Visual presentation.               |
+| **[[2.8 Project: Data Presentation]]** | Creating a resume with lists; building a schedule table; organizing information; semantic markup; accessibility practices. Real-world use. |

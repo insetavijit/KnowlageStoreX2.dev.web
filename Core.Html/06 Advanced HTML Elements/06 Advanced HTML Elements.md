@@ -1,0 +1,10 @@
+| Topic                                | Focus & Purpose                                                                                                                             |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[6.1 Details & Summary]]**        | Accordion/collapsible content; details element; summary element; open attribute; styling; use cases; accessibility. Interactive disclosure. |
+| **[[6.2 Dialog Element]]**           | Modal dialogs; dialog element; show() and showModal(); closing dialogs; backdrop; form integration; accessibility. Modern modals.           |
+| **[[6.3 Progress & Meter]]**         | progress element; meter element; value attributes; use cases; styling; accessibility; visual feedback. Status indicators.                   |
+| **[[6.4 Data Elements]]**            | data element; value attribute; time element; datetime attribute; machine-readable data; semantic data. Structured content.                  |
+| **[[6.5 Template Element]]**         | template tag; content fragment; cloning; JavaScript integration; use cases; component patterns. Reusable markup.                            |
+| **[[6.6 Output Element]]**           | output tag; for attribute; form calculations; displaying results; dynamic content; accessibility. Calculation results.                      |
+| **[[6.7 Custom Data Attributes]]**   | data-* attributes; storing custom data; JavaScript access; dataset API; use cases; best practices. Extended metadata.                       |
+| **[[6.8 Project: Interactive FAQ]]** | Building FAQ with details/summary; accordion functionality; progress indicators; accessible interactions; styling. Advanced components.     |

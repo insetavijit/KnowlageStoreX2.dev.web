@@ -1,0 +1,10 @@
+| Topic                                   | Focus & Purpose                                                                                                                         |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[9.1 Accessibility Fundamentals]]**  | What is a11y; WCAG guidelines; POUR principles; legal requirements; assistive technologies; why accessibility matters. Foundation.      |
+| **[[9.2 Semantic HTML for A11y]]**      | Using proper elements; headings hierarchy; landmarks; semantic structure; screen reader navigation; meaningful markup. Accessible base. |
+| **[[9.3 Keyboard Navigation]]**         | Tabindex; focus management; skip links; keyboard accessibility; focus indicators; interactive elements. Keyboard users.                 |
+| **[[9.4 ARIA Roles & Properties]]**     | ARIA roles; states and properties; live regions; aria-label patterns; when to use ARIA; ARIA best practices. Enhanced accessibility.    |
+| **[[9.5 Forms Accessibility]]**         | Accessible labels; error messages; validation feedback; form instructions; required fields; error recovery. Inclusive forms.            |
+| **[[9.6 Media Accessibility]]**         | Alt text best practices; captions and transcripts; audio descriptions; accessible images; accessible video. Inclusive media.            |
+| **[[9.7 Testing Accessibility]]**       | Screen reader testing; axe DevTools; WAVE; Lighthouse; keyboard testing; accessibility audits; automated testing. Quality assurance.    |
+| **[[9.8 Project: Accessible Website]]** | Building fully accessible site; WCAG AA compliance; screen reader optimization; keyboard navigation; comprehensive a11y. Gold standard. |

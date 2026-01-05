@@ -1,0 +1,10 @@
+| Topic                              | Focus & Purpose                                                                                                                                     |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[1.1 Introduction to HTML]]**   | What is HTML; history; HTML vs XHTML; HTML5 features; why learn HTML; web fundamentals; browser basics. Understanding the web.                      |
+| **[[1.2 Document Structure]]**     | DOCTYPE declaration; html element; head section; body section; character encoding; viewport meta tag; basic page anatomy. Building blocks.          |
+| **[[1.3 Development Setup]]**      | Text editors; VS Code setup; browser DevTools; file organization; naming conventions; local development; workflow basics. Getting started.          |
+| **[[1.4 Basic Elements]]**         | Headings (h1-h6); paragraphs; line breaks; horizontal rules; comments; whitespace handling; text basics. Content foundation.                        |
+| **[[1.5 Text Formatting]]**        | Bold, italic, strong, emphasis; subscript, superscript; mark, small, del, ins; code, pre; semantic vs presentational. Styling text.                 |
+| **[[1.6 Links & Navigation]]**     | Anchor tags; href attribute; absolute vs relative URLs; link targets; email links; telephone links; fragment identifiers. Connecting pages.         |
+| **[[1.7 Images & Media]]**         | img element; src and alt attributes; image formats; width and height; figure and figcaption; responsive images; image optimization. Visual content. |
+| **[[1.8 Project: First Webpage]]** | Creating a personal webpage; combining elements; proper structure; best practices; viewing in browser; basic styling. Practical application.        |
