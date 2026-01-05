@@ -6,6 +6,7 @@
       {
         "id": "3fb3a5eb750a5ca5",
         "type": "tabs",
+        "dimension": 42.91044776119403,
         "children": [
           {
             "id": "6256d35d44c3b821",
@@ -13,15 +14,94 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
+                "file": "2 Layouts & Templates/2.1 Layout Basics/2.1.3 Directory Specific Layouts.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1.1 Creating Layouts"
+              "title": "2.1.3 Directory Specific Layouts"
             }
           }
         ]
+      },
+      {
+        "id": "68e2b1258f368542",
+        "type": "split",
+        "dimension": 57.08955223880597,
+        "children": [
+          {
+            "id": "a70f9dd01315c2c5",
+            "type": "split",
+            "dimension": 63.71268656716418,
+            "children": [
+              {
+                "id": "8e25208836a97497",
+                "type": "tabs",
+                "dimension": 74.19047619047619,
+                "children": [
+                  {
+                    "id": "cb44a06be2cdf076",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2 Layouts & Templates/2.1 Layout Basics/2.1 Layout Basics.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2.1 Layout Basics"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a52356e0a72d372d",
+                "type": "tabs",
+                "dimension": 25.80952380952381,
+                "children": [
+                  {
+                    "id": "59f43c51f584b2c5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2 Layouts & Templates/2 Layouts & Templates.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2 Layouts & Templates"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "070f291360ad768c",
+            "type": "tabs",
+            "dimension": 36.28731343283582,
+            "children": [
+              {
+                "id": "b9074b0375468003",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_MYcheets/Cheet-1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cheet-1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -200,7 +280,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376
+    "width": 376,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,19 +298,23 @@
   "active": "6256d35d44c3b821",
   "lastOpenFiles": [
     "2 Layouts & Templates/2.1 Layout Basics/2.1 Layout Basics.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.2 Layout Aliasing.md",
+    "Eleventy (11ty).md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
+    "2 Layouts & Templates/2 Layouts & Templates.md",
+    "_MYcheets/Cheet-1.md",
+    "11ty Suggestions.md",
+    "_MYcheets",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.4 Layout Chaining.md",
     "2.1.4 Layout Chaining (Parent/Child).md",
     "2.1.4 Layout Chaining (Parent",
-    "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
     "1. Fundamentals (11ty)/1.2 Template Languages/1.2.8 Template Chaining & Mixing.md",
     "1. Fundamentals (11ty)/1.2 Template Languages/1.2.1 HTML & Markdown Basics.md",
     "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1.3 Project Initialization.md",
     "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1 Installation & Setup.md",
     "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1.2 Installing Eleventy (11ty).md",
     "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1.1 Node.js & Environment Setup.md",
-    "Eleventy (11ty).md",
     "Untitled 1.md",
-    "11ty Suggestions.md",
     "Untitled 2.md",
     "Untitled.canvas",
     "4 Content Management/4.1 Blog Setup/4.1.1 Post Collection.md",
@@ -238,12 +323,9 @@
     "4 Content Management/4.3 Content Dates/4.3 Content Dates.md",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.5 Front Matter Layout Assignment.md",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.3 Directory Specific Layouts.md",
-    "2 Layouts & Templates/2.1 Layout Basics/2.1.2 Layout Aliasing.md",
     "3 Collections & Data/3.2 Collection Filtering/3.2.3 Filtering by Glob or Path.md",
     "2 Layouts & Templates/2.2 Template Inheritance/2.2.6 Common Inheritance Patterns.md",
     "2 Layouts & Templates/2.2 Template Inheritance/2.2.5 Dynamic Inheritance.md",
-    "2 Layouts & Templates/2.2 Template Inheritance/2.2.4 Partial Overrides.md",
-    "2 Layouts & Templates/2.2 Template Inheritance/2.2.3B Layout Wrapping vs Inheritance.md",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.4 Layout Chaining (Parent",
     "12. Real-World Projects/12.8 JAMstack Application",
     "12. Real-World Projects/12.7 Community Site",
@@ -252,7 +334,6 @@
     "12. Real-World Projects/12.4 Marketing Site",
     "12. Real-World Projects/12.3 Documentation Site",
     "12. Real-World Projects/12.2 Blog Platform",
-    "12. Real-World Projects/12.1 Portfolio Website",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/66aa02651c656df9e8e5b5af_664c850e2b64b4ff95ca9b9e_single-multi-path-reasoning-llm-agent.webp",
