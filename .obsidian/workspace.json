@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core.Css/Untitled.md",
+                "file": "Core.Css/css-syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "css-syllabus"
+            }
+          },
+          {
+            "id": "cbca814c9c41ee4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core.Css/css-syllabus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "css-syllabus"
+            }
+          },
+          {
+            "id": "428b6665e9c8c36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           },
           {
@@ -50,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,10 +271,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bff6b26210a39ef2",
+  "active": "428b6665e9c8c36e",
   "lastOpenFiles": [
+    "Core.Css/css-syllabus.md",
+    "Untitled 1.md",
+    "css Suggestions.md",
     "Core.Html/Core-HTML-SYLLABUS.md",
-    "Core.Css/Untitled.md",
     "Core.Html/12 Real-World Projects/12.8 Capstone Complete Website/12.8 Capstone Complete Website.md",
     "Core.Html/12 Real-World Projects/12.8 Capstone Complete Website",
     "Core.Html/12 Real-World Projects/12.7 Landing Page Template/12.7 Landing Page Template.md",
@@ -279,8 +309,6 @@
     "Core.Html/10 HTML & SEO/10.5 Structured Data for SEO/10.5 Structured Data for SEO.md",
     "Core.Html/10 HTML & SEO/10.4 Image SEO/10.4 Image SEO.md",
     "Core.Html/10 HTML & SEO/10.3 Content Structure/10.3 Content Structure.md",
-    "Core.Html/10 HTML & SEO/10.2 Meta Tags for SEO/10.2 Meta Tags for SEO.md",
-    "expantion till end.md",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/66aa02651c656df9e8e5b5af_664c850e2b64b4ff95ca9b9e_single-multi-path-reasoning-llm-agent.webp",
