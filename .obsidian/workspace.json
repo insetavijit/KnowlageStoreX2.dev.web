@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "S01 - Create dir Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "S01 - Create dir Structure"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,44 +271,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "428b6665e9c8c36e",
+  "active": "cbca814c9c41ee4a",
   "lastOpenFiles": [
+    "Core.Css/16 Real-World Projects/16 Real-World Projects.md",
+    "Core.Css/16 Real-World Projects",
+    "Core.Css/15 CSS & Accessibility/15 CSS & Accessibility.md",
+    "Core.Css/15 CSS & Accessibility",
+    "Core.Css/14 CSS for Components/14 CSS for Components.md",
+    "Core.Css/14 CSS for Components",
+    "Core.Css/13 Advanced Techniques/13 Advanced Techniques.md",
+    "Core.Css/13 Advanced Techniques",
+    "Core.Css/12 CSS Performance & Optimization/12 CSS Performance & Optimization.md",
+    "Core.Css/12 CSS Performance & Optimization",
+    "Core.Css/11 CSS Architecture & Methodologies/11 CSS Architecture & Methodologies.md",
+    "Core.Css/11 CSS Architecture & Methodologies",
+    "Core.Css/10 Modern CSS Features/10 Modern CSS Features.md",
+    "Core.Css/10 Modern CSS Features",
+    "Core.Css/09 CSS Animations & Keyframes/09 CSS Animations & Keyframes.md",
+    "Core.Css/09 CSS Animations & Keyframes",
+    "Core.Css/08 Transforms & Transitions/08 Transforms & Transitions.md",
+    "Core.Css/08 Transforms & Transitions",
+    "Core.Css/07 Positioning & Z-Index/07 Positioning & Z-Index.md",
+    "Core.Css/07 Positioning & Z-Index",
+    "S01 - Create dir Structure.md",
+    "Core.Css/06 Responsive Design/06 Responsive Design.md",
+    "Core.Css/05 CSS Grid Layout/05 CSS Grid Layout.md",
+    "Core.Css/04 Flexbox Layout/04 Flexbox Layout.md",
+    "Core.Css/03 Advanced Selectors & Specificity/03 Advanced Selectors & Specificity.md",
+    "Core.Css/02 Box Model & Layout Basics/02 Box Model & Layout Basics.md",
+    "Core.Css/01 CSS Fundamentals/01 CSS Fundamentals.md",
     "Core.Css/css-syllabus.md",
-    "Untitled 1.md",
     "css Suggestions.md",
     "Core.Html/Core-HTML-SYLLABUS.md",
     "Core.Html/12 Real-World Projects/12.8 Capstone Complete Website/12.8 Capstone Complete Website.md",
-    "Core.Html/12 Real-World Projects/12.8 Capstone Complete Website",
     "Core.Html/12 Real-World Projects/12.7 Landing Page Template/12.7 Landing Page Template.md",
-    "Core.Html/12 Real-World Projects/12.7 Landing Page Template",
     "Core.Html/12 Real-World Projects/12.6 Email Newsletter Template/12.6 Email Newsletter Template.md",
-    "Core.Html/12 Real-World Projects/12.6 Email Newsletter Template",
     "Core.Html/12 Real-World Projects/12.5 Dashboard Layout/12.5 Dashboard Layout.md",
-    "Core.Html/12 Real-World Projects/12.5 Dashboard Layout",
     "Core.Html/12 Real-World Projects/12.4 Documentation Site/12.4 Documentation Site.md",
-    "Core.Html/12 Real-World Projects/12.4 Documentation Site",
     "Core.Html/12 Real-World Projects/12.3 E-commerce Product Page/12.3 E-commerce Product Page.md",
-    "Core.Html/12 Real-World Projects/12.3 E-commerce Product Page",
-    "Core.Html/12 Real-World Projects/12.2 Blog Template/12.2 Blog Template.md",
-    "Core.Html/12 Real-World Projects/12.2 Blog Template",
-    "Core.Html/12 Real-World Projects/12.1 Portfolio Website/12.1 Portfolio Website.md",
-    "Core.Html/12 Real-World Projects/12.1 Portfolio Website",
-    "Core.Html/11 HTML Best Practices/11.8 Project Code Review Checklist/11.8 Project Code Review Checklist.md",
-    "Core.Html/11 HTML Best Practices/11.8 Project Code Review Checklist",
-    "Core.Html/11 HTML Best Practices/11.7 DevTools for HTML/11.7 DevTools for HTML.md",
-    "Core.Html/11 HTML Best Practices/11.7 DevTools for HTML",
-    "Core.Html/11 HTML Best Practices/11.6 Browser Compatibility/11.6 Browser Compatibility.md",
-    "Core.Html/11 HTML Best Practices/11.5 Maintainability/11.5 Maintainability.md",
-    "Core.Html/11 HTML Best Practices/11.4 HTML & CSS-JS Separation/11.4 HTML & CSS-JS Separation.md",
-    "Core.Html/11 HTML Best Practices/11.3 Naming Conventions/11.3 Naming Conventions.md",
-    "Core.Html/11 HTML Best Practices/11.2 Code Formatting/11.2 Code Formatting.md",
-    "Core.Html/11 HTML Best Practices/11.1 HTML Validation/11.1 HTML Validation.md",
-    "Core.Html/10 HTML & SEO/10.8 Project SEO Landing Page/10.8 Project SEO Landing Page.md",
-    "Core.Html/10 HTML & SEO/10.7 Performance & SEO/10.7 Performance & SEO.md",
-    "Core.Html/10 HTML & SEO/10.6 Social Media SEO/10.6 Social Media SEO.md",
-    "Core.Html/10 HTML & SEO/10.5 Structured Data for SEO/10.5 Structured Data for SEO.md",
-    "Core.Html/10 HTML & SEO/10.4 Image SEO/10.4 Image SEO.md",
-    "Core.Html/10 HTML & SEO/10.3 Content Structure/10.3 Content Structure.md",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/66aa02651c656df9e8e5b5af_664c850e2b64b4ff95ca9b9e_single-multi-path-reasoning-llm-agent.webp",
