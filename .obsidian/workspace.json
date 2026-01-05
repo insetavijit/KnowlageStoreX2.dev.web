@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3c72571e0657ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "4f029940361eaa54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core.Html/Core-HTML-SYLLABUS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Core-HTML-SYLLABUS"
-            }
-          },
-          {
-            "id": "6346b75cb17a2bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "1698dca6925bbeb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01Prompt dirStructure - eval.md",
+                "file": "S01 Prompt dirStructure - eval.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S01Prompt dirStructure - eval"
+              "title": "S01 Prompt dirStructure - eval"
             }
           },
           {
@@ -69,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "expansion prompt.md",
+                "file": "Core.Css/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "expansion prompt"
-            }
-          },
-          {
-            "id": "736b46fea0fecb07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "Untitled"
             }
           },
           {
@@ -106,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -299,44 +243,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "736b46fea0fecb07",
+  "active": "bff6b26210a39ef2",
   "lastOpenFiles": [
-    "Core.Html/02 Lists & Tables/2.8 Project Data Presentation/2.8 Project Data Presentation.md",
-    "Core.Html/02 Lists & Tables/2.8 Project Data Presentation",
-    "Core.Html/02 Lists & Tables/2.7 Styling Lists & Tables/2.7 Styling Lists & Tables.md",
-    "Core.Html/02 Lists & Tables/2.7 Styling Lists & Tables",
-    "Core.Html/02 Lists & Tables/2.6 Table Accessibility/2.6 Table Accessibility.md",
-    "Core.Html/02 Lists & Tables/2.6 Table Accessibility",
-    "Core.Html/02 Lists & Tables/2.5 Advanced Tables/2.5 Advanced Tables.md",
-    "Core.Html/02 Lists & Tables/2.5 Advanced Tables",
-    "Core.Html/02 Lists & Tables/2.4 Table Basics/2.4 Table Basics.md",
-    "Core.Html/02 Lists & Tables/2.4 Table Basics",
-    "Core.Html/02 Lists & Tables/2.3 Definition Lists/2.3 Definition Lists.md",
-    "Core.Html/02 Lists & Tables/2.3 Definition Lists",
-    "Core.Html/02 Lists & Tables/2.2 Ordered Lists/2.2 Ordered Lists.md",
-    "Core.Html/02 Lists & Tables/2.2 Ordered Lists",
-    "Core.Html/02 Lists & Tables/2.1 Unordered Lists/2.1 Unordered Lists.md",
-    "Core.Html/02 Lists & Tables/2.1 Unordered Lists",
-    "expansion prompt.md",
-    "Untitled 3.md",
-    "S01Prompt dirStructure - eval.md",
-    "Core.Html/01 HTML Fundamentals/1.8 Project First Webpage/1.8 Project First Webpage.md",
-    "Core.Html/01 HTML Fundamentals/1.8 Project First Webpage",
-    "Core.Html/01 HTML Fundamentals/1.7 Images & Media/1.7 Images & Media.md",
-    "Core.Html/01 HTML Fundamentals/1.7 Images & Media",
-    "Core.Html/01 HTML Fundamentals/1.6 Links & Navigation/1.6 Links & Navigation.md",
-    "Core.Html/01 HTML Fundamentals/1.5 Text Formatting/1.5 Text Formatting.md",
-    "Core.Html/01 HTML Fundamentals/1.4 Basic Elements/1.4 Basic Elements.md",
-    "Core.Html/01 HTML Fundamentals/1.3 Development Setup/1.3 Development Setup.md",
-    "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2 Document Structure.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Core.Html/01 HTML Fundamentals/1.1 Introduction to HTML/1.1 Introduction to HTML.md",
-    "Core.Html/01 HTML Fundamentals/01 HTML Fundamentals.md",
-    "Core.Html/09 Accessibility (a11y)/09 Accessibility (a11y).md",
     "Core.Html/Core-HTML-SYLLABUS.md",
-    "Core.Html/10 HTML & SEO/10 HTML & SEO.md",
+    "Core.Css/Untitled.md",
+    "Core.Html/12 Real-World Projects/12.8 Capstone Complete Website/12.8 Capstone Complete Website.md",
+    "Core.Html/12 Real-World Projects/12.8 Capstone Complete Website",
+    "Core.Html/12 Real-World Projects/12.7 Landing Page Template/12.7 Landing Page Template.md",
+    "Core.Html/12 Real-World Projects/12.7 Landing Page Template",
+    "Core.Html/12 Real-World Projects/12.6 Email Newsletter Template/12.6 Email Newsletter Template.md",
+    "Core.Html/12 Real-World Projects/12.6 Email Newsletter Template",
+    "Core.Html/12 Real-World Projects/12.5 Dashboard Layout/12.5 Dashboard Layout.md",
+    "Core.Html/12 Real-World Projects/12.5 Dashboard Layout",
+    "Core.Html/12 Real-World Projects/12.4 Documentation Site/12.4 Documentation Site.md",
+    "Core.Html/12 Real-World Projects/12.4 Documentation Site",
+    "Core.Html/12 Real-World Projects/12.3 E-commerce Product Page/12.3 E-commerce Product Page.md",
+    "Core.Html/12 Real-World Projects/12.3 E-commerce Product Page",
+    "Core.Html/12 Real-World Projects/12.2 Blog Template/12.2 Blog Template.md",
+    "Core.Html/12 Real-World Projects/12.2 Blog Template",
+    "Core.Html/12 Real-World Projects/12.1 Portfolio Website/12.1 Portfolio Website.md",
+    "Core.Html/12 Real-World Projects/12.1 Portfolio Website",
+    "Core.Html/11 HTML Best Practices/11.8 Project Code Review Checklist/11.8 Project Code Review Checklist.md",
+    "Core.Html/11 HTML Best Practices/11.8 Project Code Review Checklist",
+    "Core.Html/11 HTML Best Practices/11.7 DevTools for HTML/11.7 DevTools for HTML.md",
+    "Core.Html/11 HTML Best Practices/11.7 DevTools for HTML",
+    "Core.Html/11 HTML Best Practices/11.6 Browser Compatibility/11.6 Browser Compatibility.md",
+    "Core.Html/11 HTML Best Practices/11.5 Maintainability/11.5 Maintainability.md",
+    "Core.Html/11 HTML Best Practices/11.4 HTML & CSS-JS Separation/11.4 HTML & CSS-JS Separation.md",
+    "Core.Html/11 HTML Best Practices/11.3 Naming Conventions/11.3 Naming Conventions.md",
+    "Core.Html/11 HTML Best Practices/11.2 Code Formatting/11.2 Code Formatting.md",
+    "Core.Html/11 HTML Best Practices/11.1 HTML Validation/11.1 HTML Validation.md",
+    "Core.Html/10 HTML & SEO/10.8 Project SEO Landing Page/10.8 Project SEO Landing Page.md",
+    "Core.Html/10 HTML & SEO/10.7 Performance & SEO/10.7 Performance & SEO.md",
+    "Core.Html/10 HTML & SEO/10.6 Social Media SEO/10.6 Social Media SEO.md",
+    "Core.Html/10 HTML & SEO/10.5 Structured Data for SEO/10.5 Structured Data for SEO.md",
+    "Core.Html/10 HTML & SEO/10.4 Image SEO/10.4 Image SEO.md",
+    "Core.Html/10 HTML & SEO/10.3 Content Structure/10.3 Content Structure.md",
+    "Core.Html/10 HTML & SEO/10.2 Meta Tags for SEO/10.2 Meta Tags for SEO.md",
+    "expantion till end.md",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/66aa02651c656df9e8e5b5af_664c850e2b64b4ff95ca9b9e_single-multi-path-reasoning-llm-agent.webp",

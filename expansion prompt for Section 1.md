@@ -11,7 +11,7 @@
 
 ### **Objective**
 
-Systematically generate all remaining Markdown files for **Section `01`** (`1.2.md`, `1.3.md`, `1.4.md`, … until the end of the section), ensuring they are **structurally and semantically consistent** with `1.1`.
+Systematically generate all remaining Markdown files for **Section `01`** (`1.2`, `1.3`, `1.4`, … until the end of the section), ensuring they are **structurally and semantically consistent** with `1.1`.
 
 ---
 
