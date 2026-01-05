@@ -62,9 +62,51 @@
               "icon": "lucide-file",
               "title": "php-suggestion"
             }
+          },
+          {
+            "id": "704ce749201b318f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "691c9dc457db4379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "cc80b02da48b6af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@PROMPTs/S1 Create dir Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S1 Create dir Structure"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,45 +299,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0729291cb30c5df",
+  "active": "cc80b02da48b6af6",
   "lastOpenFiles": [
     "Core.Php/php-syllabus.md",
+    "SYLLABUS-Creation/16.Modern-PHP-Features.md",
+    "SYLLABUS-Creation/15.API-Development.md",
+    "SYLLABUS-Creation/14.Security-Best-Practices.md",
+    "SYLLABUS-Creation/13.Error-Exception-Handling.md",
+    "SYLLABUS-Creation/03.Functions-Scope.md",
+    "SYLLABUS-Creation/12.Namespaces-Autoloading.md",
+    "SYLLABUS-Creation/prompt-moduleSyllabus.md",
+    "SYLLABUS-Creation/11.Advanced-OOP.md",
+    "SYLLABUS-Creation/10.Object-Oriented-Programming.md",
+    "SYLLABUS-Creation/09.Database-Integration.md",
+    "SYLLABUS-Creation/08.File-System-Interaction.md",
+    "SYLLABUS-Creation/07.State-Management.md",
+    "SYLLABUS-Creation/06.Web-Fundamentals.md",
+    "SYLLABUS-Creation/05.Arrays-Data-Handling.md",
+    "SYLLABUS-Creation/04.String-Operations.md",
+    "SYLLABUS-Creation/02.Control-Structures.md",
+    "SYLLABUS-Creation/01.PHP-Foundations.md",
     "Core.JavaScript/js-syllabus.md",
-    "Core.JavaScript/js-suggestions.md",
-    "@PROMPTs/S5 expantion till end.md",
-    "Core.Css/06 Responsive Design/6.6 Container Queries/6.6 Container Queries.md",
+    "SYLLABUS-Creation/brief-php.md",
+    "SYLLABUS-Creation/prompt-brifSyllabus.md",
+    "SYLLABUS-Creation/syllabus-analysis.md",
+    "SYLLABUS-Creation/python-syllabus.md",
+    "SYLLABUS-Creation/example-syllabus-js.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "SYLLABUS-Creation",
+    "New folder",
     "Core.Css/06 Responsive Design/6.6 Container Queries",
-    "Core.Css/06 Responsive Design/6.5 Responsive Images/6.5 Responsive Images.md",
     "Core.Css/06 Responsive Design/6.5 Responsive Images",
-    "Core.Css/06 Responsive Design/6.4 Responsive Typography/6.4 Responsive Typography.md",
     "Core.Css/06 Responsive Design/6.4 Responsive Typography",
-    "Core.Css/06 Responsive Design/6.3 Mobile-First Design/6.3 Mobile-First Design.md",
     "Core.Css/06 Responsive Design/6.3 Mobile-First Design",
-    "Core.Css/06 Responsive Design/6.2 Media Queries/6.2 Media Queries.md",
     "Core.Css/06 Responsive Design/6.2 Media Queries",
-    "Core.Css/06 Responsive Design/6.1 Responsive Fundamentals/6.1 Responsive Fundamentals.md",
     "Core.Css/06 Responsive Design/6.1 Responsive Fundamentals",
-    "Core.Css/05 CSS Grid Layout/5.8 Project Dashboard Layout/5.8 Project Dashboard Layout.md",
     "Core.Css/05 CSS Grid Layout/5.8 Project Dashboard Layout",
-    "Core.Css/05 CSS Grid Layout/5.7 Grid Alignment/5.7 Grid Alignment.md",
     "Core.Css/05 CSS Grid Layout/5.7 Grid Alignment",
-    "fremwork.devSystem.11ty/Untitled.md",
     "fremwork.devSystem.11ty/Untitled.canvas",
-    "fremwork.devSystem.11ty/Untitled 2.md",
-    "fremwork.devSystem.11ty/Untitled 1.md",
-    "fremwork.devSystem.11ty/Eleventy (11ty).md",
-    "Core.Css/05 CSS Grid Layout/5.6 Auto-Fill & Auto-Fit/5.6 Auto-Fill & Auto-Fit.md",
-    "Core.Css/05 CSS Grid Layout/5.6 Auto-Fill & Auto-Fit",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.1 Portfolio Website/12.1 Portfolio Website.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.5 Newsletter Archive.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.4 Code of Conduct.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.3 Resource Library.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.2 Event Calendar.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.1 Member Directory.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7 Community Site.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.5 State Management.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.4 Serverless Functions.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/66aa02651c656df9e8e5b5af_664c850e2b64b4ff95ca9b9e_single-multi-path-reasoning-llm-agent.webp",
