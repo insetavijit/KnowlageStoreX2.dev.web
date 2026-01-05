@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Layouts & Templates/2.1 Layout Basics/2.1.3 Directory Specific Layouts.md",
+                "file": "4 Content Management/4.1 Blog Setup/4.1 Blog Setup.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1.3 Directory Specific Layouts"
+              "title": "4.1 Blog Setup"
             }
           }
         ]
@@ -37,7 +37,7 @@
               {
                 "id": "8e25208836a97497",
                 "type": "tabs",
-                "dimension": 74.19047619047619,
+                "dimension": 71.42857142857143,
                 "children": [
                   {
                     "id": "cb44a06be2cdf076",
@@ -45,12 +45,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "2 Layouts & Templates/2.1 Layout Basics/2.1 Layout Basics.md",
+                        "file": "Eleventy (11ty).md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "2.1 Layout Basics"
+                      "title": "Eleventy (11ty)"
                     }
                   }
                 ]
@@ -58,7 +58,7 @@
               {
                 "id": "a52356e0a72d372d",
                 "type": "tabs",
-                "dimension": 25.80952380952381,
+                "dimension": 28.57142857142857,
                 "children": [
                   {
                     "id": "59f43c51f584b2c5",
@@ -208,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5b1aa8dcb300b652",
@@ -297,15 +296,21 @@
   },
   "active": "6256d35d44c3b821",
   "lastOpenFiles": [
-    "2 Layouts & Templates/2.1 Layout Basics/2.1 Layout Basics.md",
-    "2 Layouts & Templates/2.1 Layout Basics/2.1.2 Layout Aliasing.md",
+    "4 Content Management/4.1 Blog Setup/4.1.1 Post Collection.md",
+    "4 Content Management/4.1 Blog Setup/4.1 Blog Setup.md",
     "Eleventy (11ty).md",
-    "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
     "2 Layouts & Templates/2 Layouts & Templates.md",
-    "_MYcheets/Cheet-1.md",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2 Template Inheritance.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1 Layout Basics.md",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2.2 Extending Templates.md",
     "11ty Suggestions.md",
-    "_MYcheets",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2.1 Block Definitions.md",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.4 Layout Chaining.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.3 Directory Specific Layouts.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.2 Layout Aliasing.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
+    "_MYcheets/Cheet-1.md",
+    "_MYcheets",
     "2.1.4 Layout Chaining (Parent/Child).md",
     "2.1.4 Layout Chaining (Parent",
     "1. Fundamentals (11ty)/1.2 Template Languages/1.2.8 Template Chaining & Mixing.md",
@@ -317,15 +322,9 @@
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled.canvas",
-    "4 Content Management/4.1 Blog Setup/4.1.1 Post Collection.md",
     "4 Content Management/4.2 Tags & Taxonomies/4.2 Tags & Taxonomies.md",
-    "4 Content Management/4.1 Blog Setup/4.1 Blog Setup.md",
     "4 Content Management/4.3 Content Dates/4.3 Content Dates.md",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.5 Front Matter Layout Assignment.md",
-    "2 Layouts & Templates/2.1 Layout Basics/2.1.3 Directory Specific Layouts.md",
-    "3 Collections & Data/3.2 Collection Filtering/3.2.3 Filtering by Glob or Path.md",
-    "2 Layouts & Templates/2.2 Template Inheritance/2.2.6 Common Inheritance Patterns.md",
-    "2 Layouts & Templates/2.2 Template Inheritance/2.2.5 Dynamic Inheritance.md",
     "2 Layouts & Templates/2.1 Layout Basics/2.1.4 Layout Chaining (Parent",
     "12. Real-World Projects/12.8 JAMstack Application",
     "12. Real-World Projects/12.7 Community Site",
