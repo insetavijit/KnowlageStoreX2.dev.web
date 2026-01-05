@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core.JavaScript/js-syllabus.md",
+                "file": "Core.Php/php-suggestion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "js-syllabus"
+              "title": "php-suggestion"
             }
           }
         ],
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5b1aa8dcb300b652",
@@ -258,8 +259,9 @@
   },
   "active": "f0729291cb30c5df",
   "lastOpenFiles": [
-    "Core.JavaScript/js-suggestions.md",
+    "Core.Php/php-syllabus.md",
     "Core.JavaScript/js-syllabus.md",
+    "Core.JavaScript/js-suggestions.md",
     "@PROMPTs/S5 expantion till end.md",
     "Core.Css/06 Responsive Design/6.6 Container Queries/6.6 Container Queries.md",
     "Core.Css/06 Responsive Design/6.6 Container Queries",
@@ -293,7 +295,6 @@
     "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7 Community Site.md",
     "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.5 State Management.md",
     "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.4 Serverless Functions.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.3 Public API.md",
     "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
