@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dff71cf1f4c07726",
+        "id": "3fb3a5eb750a5ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "cbca814c9c41ee4a",
+            "id": "6256d35d44c3b821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@PROMPTs/S5 expantion till end.md",
-                "mode": "source",
+                "file": "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S5 expantion till end"
+              "title": "2.1.1 Creating Layouts"
             }
           }
         ]
@@ -128,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5b1aa8dcb300b652",
@@ -213,45 +214,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "381ab7aecfc659e7",
+  "active": "6256d35d44c3b821",
   "lastOpenFiles": [
-    "Core.Css/06 Responsive Design/6.6 Container Queries/6.6 Container Queries.md",
-    "Core.Css/06 Responsive Design/6.6 Container Queries",
-    "Core.Css/06 Responsive Design/6.5 Responsive Images/6.5 Responsive Images.md",
-    "Core.Css/06 Responsive Design/6.5 Responsive Images",
-    "Core.Css/06 Responsive Design/6.4 Responsive Typography/6.4 Responsive Typography.md",
-    "Core.Css/06 Responsive Design/6.4 Responsive Typography",
-    "Core.Css/06 Responsive Design/6.3 Mobile-First Design/6.3 Mobile-First Design.md",
-    "Core.Css/06 Responsive Design/6.3 Mobile-First Design",
-    "Core.Css/06 Responsive Design/6.2 Media Queries/6.2 Media Queries.md",
-    "Core.Css/06 Responsive Design/6.2 Media Queries",
-    "Core.Css/06 Responsive Design/6.1 Responsive Fundamentals/6.1 Responsive Fundamentals.md",
-    "Core.Css/06 Responsive Design/6.1 Responsive Fundamentals",
-    "Core.Css/05 CSS Grid Layout/5.8 Project Dashboard Layout/5.8 Project Dashboard Layout.md",
-    "Core.Css/05 CSS Grid Layout/5.8 Project Dashboard Layout",
-    "Core.Css/05 CSS Grid Layout/5.7 Grid Alignment/5.7 Grid Alignment.md",
-    "Core.Css/05 CSS Grid Layout/5.7 Grid Alignment",
-    "fremwork.devSystem.11ty/Untitled.md",
-    "fremwork.devSystem.11ty/Untitled.canvas",
-    "fremwork.devSystem.11ty/Untitled 2.md",
-    "fremwork.devSystem.11ty/Untitled 1.md",
-    "fremwork.devSystem.11ty/Eleventy (11ty).md",
-    "Core.Css/05 CSS Grid Layout/5.6 Auto-Fill & Auto-Fit/5.6 Auto-Fill & Auto-Fit.md",
-    "Core.Css/05 CSS Grid Layout/5.6 Auto-Fill & Auto-Fit",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.1 Portfolio Website/12.1 Portfolio Website.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.5 Newsletter Archive.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.4 Code of Conduct.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.3 Resource Library.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.2 Event Calendar.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7.1 Member Directory.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site/12.7 Community Site.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.5 State Management.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.4 Serverless Functions.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.3 Public API.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.2 User Dashboard.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8.1 Auth0-Netlify Identity.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.8 JAMstack Application/12.8 JAMstack Application.md",
-    "fremwork.devSystem.11ty/12. Real-World Projects/12.7 Community Site",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1 Layout Basics.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.4 Layout Chaining.md",
+    "2.1.4 Layout Chaining (Parent/Child).md",
+    "2.1.4 Layout Chaining (Parent",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.1 Creating Layouts.md",
+    "1. Fundamentals (11ty)/1.2 Template Languages/1.2.8 Template Chaining & Mixing.md",
+    "1. Fundamentals (11ty)/1.2 Template Languages/1.2.1 HTML & Markdown Basics.md",
+    "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1.3 Project Initialization.md",
+    "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1 Installation & Setup.md",
+    "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1.2 Installing Eleventy (11ty).md",
+    "1. Fundamentals (11ty)/1.1 Installation & Setup/1.1.1 Node.js & Environment Setup.md",
+    "Eleventy (11ty).md",
+    "Untitled 1.md",
+    "11ty Suggestions.md",
+    "Untitled 2.md",
+    "Untitled.canvas",
+    "4 Content Management/4.1 Blog Setup/4.1.1 Post Collection.md",
+    "4 Content Management/4.2 Tags & Taxonomies/4.2 Tags & Taxonomies.md",
+    "4 Content Management/4.1 Blog Setup/4.1 Blog Setup.md",
+    "4 Content Management/4.3 Content Dates/4.3 Content Dates.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.5 Front Matter Layout Assignment.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.3 Directory Specific Layouts.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.2 Layout Aliasing.md",
+    "3 Collections & Data/3.2 Collection Filtering/3.2.3 Filtering by Glob or Path.md",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2.6 Common Inheritance Patterns.md",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2.5 Dynamic Inheritance.md",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2.4 Partial Overrides.md",
+    "2 Layouts & Templates/2.2 Template Inheritance/2.2.3B Layout Wrapping vs Inheritance.md",
+    "2 Layouts & Templates/2.1 Layout Basics/2.1.4 Layout Chaining (Parent",
+    "12. Real-World Projects/12.8 JAMstack Application",
+    "12. Real-World Projects/12.7 Community Site",
+    "12. Real-World Projects/12.6 Podcast Site",
+    "12. Real-World Projects/12.5 E-commerce Integration",
+    "12. Real-World Projects/12.4 Marketing Site",
+    "12. Real-World Projects/12.3 Documentation Site",
+    "12. Real-World Projects/12.2 Blog Platform",
+    "12. Real-World Projects/12.1 Portfolio Website",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/66aa02651c656df9e8e5b5af_664c850e2b64b4ff95ca9b9e_single-multi-path-reasoning-llm-agent.webp",
@@ -260,7 +261,6 @@
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/0_CP98j5HdhmC-nTON.jpg",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/1_Vc-7XybdU2xvwJqYYaA3cg.png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/magentic-pattern-example.svg",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
