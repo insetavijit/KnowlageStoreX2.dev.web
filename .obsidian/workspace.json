@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2.10 Document Rendering Pipeline.md",
+                "file": "Core.JavaScript/04 Arrays & Data Structures/04 Arrays & Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.10 Document Rendering Pipeline"
+              "title": "04 Arrays & Data Structures"
             }
           }
         ]
@@ -213,8 +213,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0729291cb30c5df",
+  "active": "b3ea8d591869e90f",
   "lastOpenFiles": [
+    "Core.JavaScript/04 Arrays & Data Structures/4.1 Array Basics.md",
+    "Core.JavaScript/03 Functions/3.1 Function Basics.md",
+    "Core.JavaScript/04 Arrays & Data Structures/04 Arrays & Data Structures.md",
+    "Core.JavaScript/02 Control Flow & Logic/2.1 If Statements.md",
+    "Core.JavaScript/01 JavaScript Fundamentals/1.2 Development Setup.md",
+    "Core.JavaScript/01 JavaScript Fundamentals/1.1 Introduction to JavaScript.md",
+    "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2.10 Document Rendering Pipeline.md",
     "Core.Html/01 HTML Fundamentals/1.5 Text Formatting/1.5.1 Bold and Strong.md",
     "Core.Html/01 HTML Fundamentals/1.4 Basic Elements/1.4.10 Generic Inline (span).md",
     "Core.Html/01 HTML Fundamentals/1.4 Basic Elements/1.4.9 Generic Containers (div).md",
@@ -234,13 +241,6 @@
     "Core.Html/01 HTML Fundamentals/1.3 Development Setup/1.3.5 File Organization Basics.md",
     "Core.Html/01 HTML Fundamentals/1.3 Development Setup/1.3.4 Browser DevTools Introduction.md",
     "Core.Html/01 HTML Fundamentals/1.3 Development Setup/1.3.3 Essential VS Code Extensions.md",
-    "Core.Html/01 HTML Fundamentals/1.3 Development Setup/1.3.2 VS Code Setup for HTML.md",
-    "Core.Html/01 HTML Fundamentals/1.3 Development Setup/1.3.1 Choosing a Text Editor.md",
-    "Core.Html/01 HTML Fundamentals/1.1 Introduction to HTML/1.1.9 Common Beginner Misconceptions.md",
-    "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2.10 Document Rendering Pipeline.md",
-    "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2.9 Basic Page Anatomy.md",
-    "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2.8 Viewport Meta Tag.md",
-    "Core.Html/01 HTML Fundamentals/1.2 Document Structure/1.2.7 Character Encoding.md",
     "Core.JavaScript/18 Real-World Projects",
     "Core.JavaScript/17 Modern Tooling & Build",
     "Core.JavaScript/16 JavaScript Design Patterns",
